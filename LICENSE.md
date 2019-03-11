@@ -1,4 +1,6 @@
-# The MIT License (MIT)
+##### Lagrange jekyll theme
+
+###### The MIT License (MIT)
 
 Copyright (c) 2017 Paul Le
 
